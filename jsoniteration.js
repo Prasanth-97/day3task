@@ -11,7 +11,7 @@ const myinfo = {
 
 for (const key in myinfo) {
       {
-      console.log(`:${key}: ${myinfo[key]}`);
+      console.log(`${key}: ${myinfo[key]}`);
      }
   };
 
